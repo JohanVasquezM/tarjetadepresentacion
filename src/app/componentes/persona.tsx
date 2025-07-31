@@ -12,8 +12,8 @@ export default function Persona() {
       {nombre: "Nicole", ocupacion: "Ingeniera", pais: "Mexico"},
       {nombre: "Juan", ocupacion: "Diseñador", pais: "Chile"},
       {nombre: "Pablo", ocupacion: "Medico", pais: "Colombia"},
-      {nombre: "Carlos", ocupacion: "Profesor", pais: "España"},
-      {nombre: "Sofía", ocupacion: "Abogada", pais: "Chile"}
+      {nombre: "Jose", ocupacion: "Profesor", pais: "España"},
+      {nombre: "Maria", ocupacion: "Abogada", pais: "Chile"}
     ])
   }, [])
 
